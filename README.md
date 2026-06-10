@@ -22,6 +22,13 @@ This project was developed as a learning exercise to explore:
 
 The project serves as a practical demonstration of automation and image-processing concepts for educational and research purposes.
 
+## Technical Challenges
+
+- Managing multiple emulator instances concurrently
+- Synchronizing device threads
+- Reliable UI detection using template matching
+- Handling varying screen states and transitions
+
 ## Features
 
 - **Multi-device support** — detects all connected ADB devices and runs a bot thread on each in parallel
