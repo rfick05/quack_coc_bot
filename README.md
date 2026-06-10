@@ -2,6 +2,14 @@
 
 A multi-device Clash of Clans automation bot built in Python using ADB (Android Debug Bridge) and computer vision. Designed to run farm attacks across multiple emulator instances simultaneously via multithreading.
 
+## Technologies
+
+- Python
+- OpenCV
+- ADB (Android Debug Bridge)
+- Multithreading
+- NumPy
+
 ## Educational Purpose
 
 This project was developed as a learning exercise to explore:
